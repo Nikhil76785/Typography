@@ -1,0 +1,106 @@
+<html>
+    <head>
+        <title>Typography in Bootstrap</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            h1{color: red;}
+            div{color: blue;}
+            dl{color: green;}
+            dd{color: green;}
+            dt{color: green;}
+            
+        </style>
+
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="display-1">A computer is an electronic device that was discovered by Charles Babbage. He is known as the father of computers. There
+            are various parts to a computer. The four major parts of a computer are the mouse, keyboard, monitor and CPU. With
+            computers, we can send and receive messages through emails and save important information. It helps to store and modify
+            data. Nowadays, computers are used in schools, banks, offices, etc., and it is now impossible to survive without
+            computers. In order to run any organisation, institution, or any other office, a computer is a must. Computers have made
+            life easier for people of different age groups.</h1>
+
+
+            <h1 class="display-2">Charles Babbage is the father of computers. It is an electronic gadget that is used to store and process data. The
+            features which are found in a computer are a notepad, calculator, paint tool, etc. A computer can be used to store,
+            receive, or send information via different mediums. A computer is a reliable gadget that can store all your private
+            information with security protection. In order to operate a computer, we need an operating system and someone to operate
+            it. If you know how to operate, then it is easier for you to handle any kind of job. If you are not well aware of using
+            a computer, then you will have to be dependent on someone for your work. There is no job that is impossible with the
+            computer. Every day, scientists are working really hard to find new innovations to improve the performance and quality
+            of computers. Therefore, in today’s changing world, it is necessary for every individual to learn the basics of
+            computers at least.</h1>
+
+
+            <h1 class="display-3">In the 21st century, it is impossible to imagine a life without a computer and internet connection. The invention of
+            computers has brought a lot of changes in people’s lives and has helped in fulfilling people’s dreams. A computer is
+            used in various organisations, schools, institutions, offices, etc. It can be used to store important information with
+            high protection and can also be used to send and receive messages, make calculations, develop software, send and receive
+            emails, etc. The major parts of a computer are the mouse, keyboard, monitor, and CPU, but these gadgets have been
+            improvised with a lot of modifications.
+            
+            Nowadays, we have become very dependent on technology; therefore, it is difficult to imagine our lives without a
+            computer. To learn any professional course, you must be well-versed in computer usage. Whether a school student or an
+            employee, you must at least know the basics of computers. Along with the increasing usage of computers, they have been
+            updated in many ways, like making it lighter to carry in a bag, making processors faster, etc. With the increasing usage
+            and demands of people, computers have been developed and have made life easier. Starting from simple calculations to
+            weather forecasting, computers have become a part of our lives.</h1>
+
+
+            <h1 class="display-4">A computer is one of the best man-made creations that has been developed to help people in various sectors. It has
+            become such an important part of our lives that we find computers everywhere we go. Starting from our school life till
+            our old age, we have many uses for computers. We have become so much dependent on computers that we are using computers
+            for almost everything we do. It is a device that can store an enormous amount of data in it. We are so much dependent on
+            computers that we do not want to put any pressure on ourselves. We blindly store all our data in a computer with a
+            safety passcode. A computer takes up the responsibility and processes the output in no time, hence making our life
+            easier. It collects the data, processes it and then provides the final result to us within a very short time. People in
+            this day and age have become so reliant on computers that they cannot imagine life without them. Computers are
+            significant because of their widespread use, productivity, and openness. Computers are the most needed innovation due to
+            their incredible benefits. Computers are used in every field, like the education sector, hospitals, hotels, etc. If you
+            go for a CT Scan, X-ray, or ECG, you will need a computer to check your body. In case you want to submit a project, you
+            will need a computer. It has become a part of our lifestyle.
+            
+            The computer is a remarkable piece of science that man has created to help humanity. Computers are in charge of today’s
+            reality, and they have unquestionably altered people’s lifestyles and the condition of developing countries.</h1>
+        </div>
+        
+        <div class="container">
+            <h2>
+                A computer once beat me at chess, but it was no match for me at kick boxing. <small class="text-muted">Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months.</small>
+            </h2>
+        </div>
+
+        <dl>
+            <dt>The real danger is not that computers will begin to think like men, but that men will begin to think like computers.</dt>
+            <dd>Man is still the most extraordinary computer of all.</dd>
+        </dl>
+
+        <kbd>CTRL+C</kbd>
+        <p>is copy</p>
+        <kbd>CTRL+V</kbd>
+        <p>is paste</p>
+        <kbd>CTRL+X</kbd>
+        <p>is cut</p>
+        <kbd>CTRL+Z</kbd>
+        <p>is undo</p>
+        <kbd>CTRL+Y</kbd>
+        <p>is redo</p>
+
+        <h1>THIS IS SCENCE!!!</h1>
+
+        <p>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></p>
+        <p>H<sub>2</sub>O+CO<sub>2</sub>+CaCO<sub>3</sub>--->Ca(HCO<sub>3</sub>)<sub>2</sub></p>
+
+    </body>
+</html>

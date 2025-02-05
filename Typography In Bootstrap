@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>Typography in Bootstrap</title>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            h1{color: red;}
+            div{color: blue;}
+            dl{color: green;}
+            dd{color: green;}
+            dt{color: green;}
+            
+        </style>
+
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="display-1">This is Typography!</h1>
+            <h1 class="display-2">There are different</h1>
+            <h1 class="display-3">sizes in it</h1>
+            <h1 class="display-4">We can use  Bootstrap!!</h1>
+        </div>
+        
+        <div class="container">
+            <h2>
+                I can also do things like <small class="text-muted">make things smaller and lighter!</small>
+            </h2>
+        </div>
+
+        <dl>
+            <dt>I can also add</dt>
+            <dd>descriptions in different ways!</dd>
+        </dl>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<html>
+    <head>
+           <title>New Tags</title>
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            sup{color: red}
+            sub{color: red}
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Maths</h1>
+        <p><mark>Maths</mark> is a field of study that discovers and organizes methods, <code>theories and theorems</code> that are developed and
+        proved for the needs of empirical sciences and mathematics itself. There are many areas of mathematics, which include
+        <code>number theory</code> <mark>(the study of numbers)</mark>, <code>algebra</code> <mark>(the study of formulas and related structures)</mark>, <code>geometry</code> <mark>(the study of
+        shapes and spaces that contain them)</mark>, <code>analysis</code> <mark>(the study of continuous changes)</mark>, and <code>set theory</code> <mark>(presently used as a
+        foundation for all mathematics)</mark>.</p>
+
+        <p>(a+b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></p>
+        <p>H<sub>2</sub>O+CO<sub>2</sub>+CaCO<sub>3</sub>--->Ca(HCO<sub>3</sub>)<sub>2</sub></p>
+
+        <kbd>CTRL+C</kbd><p>is copy</p>
+        <kbd>CTRL+V</kbd>
+        <p>is paste</p>
+        <kbd>CTRL+X</kbd>
+        <p>is cut</p>
+        <kbd>CTRL+Z</kbd>
+        <p>is undo</p>
+        <kbd>CTRL+Y</kbd>
+        <p>is redo</p>
+        
+    </body>
+    
+</html>
